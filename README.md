@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Application Support Engineer (L2/L3) | Backend-focused Software Engineer
+Software Engineer with strong expertise in Backend Development, Production Support, Application Support and System Integrations.
+
 
 📫 Email: [efimov840@gmail.com](efimov840@gmail.com)
 
